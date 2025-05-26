@@ -8,7 +8,7 @@
 
 ## 🔴 [Cайт ЛизаАлерт](https://github.com/gineff/lizaalert_frontend) 
 **Описание** Платформа для обучения добровольцев "ЛизаАлерт"  
-**Ссылки** [Скриншот](https://github.com/user-attachments/assets/f4d43a74-5757-4bf6-912b-49b62968fe28)  [Демо](https://la-testing.ru/)  
+**Ссылки** [Скриншот](https://github.com/user-attachments/assets/f4d43a74-5757-4bf6-912b-49b62968fe28)  
 **Технологии** React, TypeScript, Redux Toolkit, React router, Axios, Formik & Yup, SCSS module, Docker & Nginx  
 
 ## 🔴 [Cайт SoftInterMob](https://github.com/gineff/soft-inter-mob) 
